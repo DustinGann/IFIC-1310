@@ -4,7 +4,7 @@ V<!doctype html>
 <head>
   <meta charset="utf-8">
 
-  <title>IFSC 1310 | Your name</title>
+  <title>IFSC 1310  | Your name</title>
   <meta name="description" content="the first codes that is pushed to the teacher">
   <meta name="author" content="Dustin Gann">
 
@@ -14,7 +14,7 @@ V<!doctype html>
   <h1>Dustin GAnn</h1>
   <nav>
   <ul>
-        <li><a href="prototype/index.html">fisrt assignment</a></il>
+        <li><a href="prototype/index.html"> fisrt assignment </a></il>
   </ul>
   </nav>
 </body>
