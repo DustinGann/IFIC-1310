@@ -180,8 +180,85 @@ article.post img{
   border-bottom:1px solid #c0c0c0;
 }
 
+table{
+ border:1px solid #c0c0c0;
+  width:100%;
+  border-collapse:collapse;
+  margin:20px 0;
+}
 
+caption{
+  font-weight:bold;
+  
+}
+/* or 3n-1 */
+tr:nth-child(even) {
+  background-color:rgba(40,0,40,.2);
+}
+td:nth-child(2),td:nth-child(3) {
+  text-align:right;
+}
 
+tr:hover{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+th{background-color: #50475A;
+  color:#fff;
+padding:10px;
+}
+td{border:1px solid #c0c0c0;
+ padding:5px;
+}
+#practice ol{
+  clear:both;
+  list-style-type:lower-roman;
+}
+#practice ul{
+  list-style-type: "\1f44D"; width:33%;
+  
+}
+#practice ul ul{
+  list-style-type:square;
+
+}
+/*width:50%;
+  background:red;
+  margin:auto;*/
+dl{width:50%;
+background-color:#f0f0f0;
+  margin:auto;
+}
+dt{
+  font-weight:bold;
+}
+dd+dt{
+  color:red;
+}
+dd{
+  margin:0;
+}
+#practice h4{
+ border-left:7.5px solid #172635;
+ padding:5px 10px;
+}
+
+#practice blockquote{
+  
+  border: 9px double #fff;
+  padding: 10px 40px;
+  margin: 40px 80px;
+  border-radius: 50px 50px 50px 0;
+  background-color: #50475A;
+  color: #ffffff;
+  line-height: 1.4;
+ 
+}
+#practice blockquote cite{
+  display:block;
+  text-allign:center;
+  font-size:.8rem;
+    margin-top:10px;
+}
 
 
 aside[role="complementary"]{
