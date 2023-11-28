@@ -1,6 +1,6 @@
 body {
-
-    margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0;
 }
 #intro{
  
@@ -34,7 +34,7 @@ body {
       box-shadow: 0 4px 8px rgba(0,0,0,.4);
       padding: 40px 10px 30px 10px;
       border-radius:4px;
-      font-size:.8rem;
+      font-size:1.2rem;
       height: 170px;
     }
     
@@ -82,7 +82,9 @@ body {
     }
     
       header.primary h2 {
-      margin: 20px auto 50px;
+        color: black;
+        text-shadow: 1px 1px #fff;
+      margin: 30px auto 20px;
       position: relative;
         display: flex;
         justify-content: space-around;
