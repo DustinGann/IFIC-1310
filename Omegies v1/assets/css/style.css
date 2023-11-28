@@ -2,14 +2,32 @@ body {
 
     margin: 0;
 }
+#intro{
+ 
+ 
+
+  margin: 0px 20px;
+      
+      
+}
+#articles{
+ 
+ 
+
+  margin: 0px 20px;
+      
+      
+}
 #content{
  
  
 
-    margin: 0px 0px;
+  margin: 0px 0px;
       
       
-    }
+}
+
+
     #content .post{
       background-color: #ffff00ff;
       margin: 50px 10px;
