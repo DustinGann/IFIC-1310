@@ -1,8 +1,12 @@
+body {
+
+    margin: 0;
+}
 #content{
  
  
 
-    margin: 10px 10px;
+    margin: 0px 0px;
       
       
     }
@@ -31,7 +35,7 @@
     }
     
     header.primary {
-      color: #00000;
+      color: #000000;
       
       background-image: 
       url("../img/banban.jpg");
