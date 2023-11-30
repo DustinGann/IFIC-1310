@@ -28,16 +28,37 @@ body {
 }
 
 
-    #content .post{
-      background-color: #ffff00ff;
-      margin: 50px 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,.4);
-      padding: 40px 10px 30px 10px;
-      border-radius:4px;
-      font-size:1.2rem;
-      height: 170px;
-    }
-    
+#charic .post{
+  background-color: #ffff00ff;
+  margin: 50px 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,.4);
+  padding: 40px 10px 30px 10px;
+  border-radius:4px;
+  font-size:1.2rem;
+  height: 170px;
+}
+#faqbx .post{
+  border: 2px solid #000000;
+  background-color: #ffffff;
+
+  
+  padding: 10px 10px 10px 10px;
+  
+  margin: 10px 10px;
+  
+  
+  
+  
+  font-size:1.3rem;
+  height: 170px;
+}
+
+#faqbx header  {
+
+  border: 2px solid #000000;
+  padding:  0px 10px;
+} 
+
     article.post img{ 
       background-color: #000;
       margin-right:20px;
