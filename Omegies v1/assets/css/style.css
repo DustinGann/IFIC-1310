@@ -3,8 +3,8 @@ body {
   margin: 0;
 }
  img{
-
   max-width: 100%;
+ 
  }
 #home{
   margin: 0px 200px;
@@ -13,12 +13,14 @@ body {
 #home{
  
   padding: 30px;
+  font-size:1.4rem;
   
 }
 
 #home img{
 
   float:inline-start;
+  padding: 0px 0px 30px 0px;
 }
   
  
