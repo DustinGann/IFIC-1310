@@ -1,0 +1,194 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0;
+}
+ img{
+  max-width: 100%;
+ 
+ }
+#home{
+  margin: 0px 200px;
+}
+
+#home{
+ 
+  padding: 30px;
+  font-size:1.4rem;
+  
+}
+
+#home img{
+
+  float:inline-start;
+  padding: 0px 0px 30px 0px;
+}
+  
+ 
+  
+
+
+
+#intro{
+ 
+ 
+
+  margin: 0px 20px;
+      
+      
+}
+
+#articles{
+ 
+ 
+
+  margin: 0px 20px;
+      
+      
+}
+#content{
+ 
+ 
+
+  margin: 0px 0px;
+      
+      
+}
+
+
+#charic .post{
+  background-color: #ffff00ff;
+  margin: 50px 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,.4);
+  padding: 40px 10px 30px 10px;
+  border-radius:4px;
+  font-size:1.2rem;
+  height: 170px;
+}
+#faqbx .post{
+  border: 2px solid #000000;
+  background-color: #ffffff;
+
+  
+  padding: 10px 10px 10px 10px;
+  
+  margin: 10px 10px;
+  
+  
+  
+  
+  font-size:1.3rem;
+  height: 170px;
+}
+
+#faqbx header.post  {
+
+  border: 2px solid #000000;
+  padding:  0px 10px;
+} 
+#faqh h2 {
+
+  
+  padding:  0px 30px;
+} 
+
+
+    article.post img{ 
+      background-color: #000;
+      margin-right:20px;
+      background-color:rgba(0, 0, 0, 0.0);
+      float:left;
+      width:175px;
+      height:175px;
+      clear: both;
+    }
+    
+    article h2{
+      margin:0;
+    }
+    
+    header.primary {
+      color: #000000;
+      
+      background-image: 
+      url("../img/banban.jpg");
+      background-size:cover;
+    }
+    
+    
+    
+    header.primary h1 a {
+      color: #ffffff;
+      background-image: 
+        
+      url("../img/o-logo.png");
+     /* site-logo */
+      display: block;
+      
+      width: 512px;
+      
+      height: 158px;
+      scale:100%;
+      margin: 0 auto;
+      text-indent: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      
+    }
+    
+      header.primary h2 {
+        color: black;
+        text-shadow: 1px 1px #fff;
+      margin: 30px auto 20px;
+      position: relative;
+        display: flex;
+        justify-content: space-around;
+    }
+    /* nav ------------------*/  
+    header.primary nav ul {
+      padding:4px;
+    }
+    header.primary nav ul {
+      position: relative;
+      display: flex;
+      
+      flex-direction: row;
+      justify-content: space-around;
+      padding: 10;
+      max-width: 900px;
+      margin: 20px auto;
+      list-style-type: none;
+    }
+    
+    
+    header.primary nav a:link,
+    header.primary nav a:visited {
+      color: black;
+      text-shadow: -1px -1px #fff;
+      text-decoration: none;
+      background-color: #000000;
+      background-color: rgba(200, 200, 200, 0.55);
+      padding: 8px 16px;
+      border-radius: 4px;
+      transition: 0.15s;
+      display: block;
+    }
+    
+    header.primary nav a:hover,
+    header.primary nav a:active {
+      background-color: rgba(80, 80, 80, 0.7);
+      text-shadow: 1px 1px #000;
+      
+      color: #ffffff;
+    }
+    
+    
+    /* to here ------------------*/ 
+    
+    #colophon{
+      
+       background-color: #1a1a10ff;
+      color: #fff;
+      padding: 2.0rem;
+      
+      
+    }
